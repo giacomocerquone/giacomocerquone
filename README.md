@@ -19,5 +19,5 @@ I work as a remote freelancer in JavaScript and my main technologies are:
 <br/><br/>
 ## You can find me on many place:
 
-- [My website](http://giacomocerquone.com)
-- [My blog](http://blog.giacomocerquone.com)
+- 🌍 [My website](http://giacomocerquone.com)
+- 📕 [My blog](http://giacomocerquone.com/blog)
