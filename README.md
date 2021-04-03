@@ -1,22 +1,50 @@
-## Hi there 👋 I'm Giacomo. I write and explain software to make the world a better place.
-I work as a remote freelancer in JavaScript and my main technologies are: 
+## Hi there 👋 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<br/><br/>
+![](https://img.shields.io/static/v1?label=JavaScript&message=%E2%9D%A4&color=yellow)
+![](https://img.shields.io/static/v1?label=TypeScript&message=%E2%9D%A4&color=blue)
+![](https://img.shields.io/static/v1?label=React&message=%E2%9D%A4&color=7cd0ef)
+![](https://img.shields.io/static/v1?label=Functional%20Programming&message=%E2%9D%A4&color=c4451d)
+
+I'm Giacomo. I write and explain software to make the world a better place.<br/>
+I work as a remote freelancer in JavaScript and my main technologies are: JavaScript, TypeScript, React and Angular, but I've used many many different technologies both for fun and work.
+
+## &#x1f4c8; GitHub Stats
+
+![](https://gitwar.herokuapp.com/badge?username=giacomocerquone)
+
+<a href="https://github.com/giacomocerquone/giacomocerquone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomocerquone&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="giacomocerquone's GitHub Stats" />
+</a>
+
+<a href="https://github.com/giacomocerquone/giacomocerquone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giacomocerquone&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="giacomocerquone's GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=giacomocerquone&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/giacomocerquone/react-perspective-cropper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=react-perspective-cropper&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="react-perspective-cropper" />
+</a>
+
+<a href="https://github.com/giacomocerquone/UnivaqBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=UnivaqBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="UnivaqBot" />
+</a>
+
+## 📕 Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 👥 My Communities
+
+- ItalianCoders: https://italiancoders.it
+
 ## You can find me on many place:
 
 - 🌍 [My website](http://giacomocerquone.com)
