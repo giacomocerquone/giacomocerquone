@@ -1,5 +1,3 @@
-## Hi there 👋 
-
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ![](https://img.shields.io/static/v1?label=JavaScript&message=%E2%9D%A4&color=yellow)
@@ -39,6 +37,9 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 
 ## 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+[Life and death of the usePrevious hook](https://www.giacomocerquone.com/blog/life-death-useprevious-hook)
+[My new custom keyboard](https://www.giacomocerquone.com/blog/my-new-custom-keyboard)
+[How to start a React Native application](https://www.giacomocerquone.com/blog/start-with-react-native)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👥 My Communities
