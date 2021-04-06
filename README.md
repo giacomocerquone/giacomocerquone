@@ -37,9 +37,9 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 
 ## 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-[Life and death of the usePrevious hook](https://www.giacomocerquone.com/blog/life-death-useprevious-hook)
-[My new custom keyboard](https://www.giacomocerquone.com/blog/my-new-custom-keyboard)
-[How to start a React Native application](https://www.giacomocerquone.com/blog/start-with-react-native)
+[Life and death of the usePrevious hook](https://www.giacomocerquone.com/blog/life-death-useprevious-hook)<br/>
+[My new custom keyboard](https://www.giacomocerquone.com/blog/my-new-custom-keyboard)<br/>
+[How to start a React Native application](https://www.giacomocerquone.com/blog/start-with-react-native)<br/>
 <!-- BLOG-POST-LIST:END -->
 
 ## 👥 My Communities
