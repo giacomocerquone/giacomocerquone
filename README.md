@@ -20,12 +20,7 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giacomocerquone&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="giacomocerquone's GitHub Stats" />
 </a>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=giacomocerquone&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 🗂️ Highlight Projects
+## 🗂️ Highlighted OSS Projects
 
 <a href="https://github.com/giacomocerquone/react-perspective-cropper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=react-perspective-cropper&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="react-perspective-cropper" />
@@ -42,11 +37,6 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 [How to start a React Native application](https://www.giacomocerquone.com/blog/start-with-react-native)<br/>
 <!-- BLOG-POST-LIST:END -->
 
-## 👥 My Communities
+## Read me here:
 
-- ItalianCoders: https://italiancoders.it
-
-## You can find me on many place:
-
-- 🌍 [My website](http://giacomocerquone.com)
-- 📕 [My blog](http://giacomocerquone.com/blog)
+- 🌍 [My website and blog](http://giacomocerquone.com/)
