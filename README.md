@@ -30,13 +30,6 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=UnivaqBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="UnivaqBot" />
 </a>
 
-## 📕 Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-[Life and death of the usePrevious hook](https://www.giacomocerquone.com/blog/life-death-useprevious-hook)<br/>
-[My new custom keyboard](https://www.giacomocerquone.com/blog/my-new-custom-keyboard)<br/>
-[How to start a React Native application](https://www.giacomocerquone.com/blog/start-with-react-native)<br/>
-<!-- BLOG-POST-LIST:END -->
-
 ## Read me here:
 
-- 🌍 [My website and blog](http://giacomocerquone.com/)
+🌍 [My website and blog](http://giacomocerquone.com/)
