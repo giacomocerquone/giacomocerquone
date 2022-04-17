@@ -22,6 +22,10 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 
 ## 🗂️ Highlighted OSS Projects
 
+<a href="https://github.com/giacomocerquone/YouTube-BgAudio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=YouTube-BgAudio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="YouTube-BgAudio" />
+</a>
+
 <a href="https://github.com/giacomocerquone/react-perspective-cropper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=react-perspective-cropper&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="react-perspective-cropper" />
 </a>
