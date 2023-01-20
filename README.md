@@ -8,6 +8,13 @@
 I'm Giacomo. I write and explain software to make the world a better place.<br/>
 I work as a remote freelancer in JavaScript and my main technologies are: JavaScript, TypeScript, React and Angular, but I've used many many different technologies both for fun and work.
 
+## 🗂️ OSS
+
+[YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa#why-it-doesnt-always-work)
+[opencv-react](https://github.com/giacomocerquone/opencv-react)
+[react-perspective-cropper](https://github.com/giacomocerquone/react-perspective-cropper)
+[UnivaqBot (archived)](https://github.com/giacomocerquone/UnivaqBot)
+
 ## &#x1f4c8; GitHub Stats
 
 ![](https://gitwar.herokuapp.com/badge?username=giacomocerquone)
@@ -18,20 +25,6 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 
 <a href="https://github.com/giacomocerquone/giacomocerquone">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giacomocerquone&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="giacomocerquone's GitHub Stats" />
-</a>
-
-## 🗂️ Highlighted OSS Projects
-
-<a href="https://github.com/giacomocerquone/YouTube-BgAudio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=YouTube-BgAudio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="YouTube-BgAudio" />
-</a>
-
-<a href="https://github.com/giacomocerquone/react-perspective-cropper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=react-perspective-cropper&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="react-perspective-cropper" />
-</a>
-
-<a href="https://github.com/giacomocerquone/UnivaqBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giacomocerquone&repo=UnivaqBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="UnivaqBot" />
 </a>
 
 ## Read me here:
