@@ -10,9 +10,9 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 
 ## 🗂️ OSS
 
-[YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa#why-it-doesnt-always-work)
-[opencv-react](https://github.com/giacomocerquone/opencv-react)
-[react-perspective-cropper](https://github.com/giacomocerquone/react-perspective-cropper)
+[YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa#why-it-doesnt-always-work)<br/>
+[opencv-react](https://github.com/giacomocerquone/opencv-react)<br/>
+[react-perspective-cropper](https://github.com/giacomocerquone/react-perspective-cropper)<br/>
 [UnivaqBot (archived)](https://github.com/giacomocerquone/UnivaqBot)
 
 ## &#x1f4c8; GitHub Stats
