@@ -8,6 +8,10 @@
 I'm Giacomo. I write and explain software to make the world a better place.<br/>
 I work as a remote freelancer in JavaScript and my main technologies are: JavaScript, TypeScript, React and Angular, but I've used many many different technologies both for fun and work.
 
+## Read me here:
+
+🌍 [My website and blog](http://giacomocerquone.com/)
+
 ## 🗂️ OSS
 
 [YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa#why-it-doesnt-always-work)<br/>
@@ -26,7 +30,3 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 <a href="https://github.com/giacomocerquone/giacomocerquone">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giacomocerquone&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="giacomocerquone's GitHub Stats" />
 </a>
-
-## Read me here:
-
-🌍 [My website and blog](http://giacomocerquone.com/)
