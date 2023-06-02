@@ -14,6 +14,7 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 
 ## 🗂️ OSS
 
+[Unconventional Meet](https://github.com/giacomocerquone/beyond-meet) - A Chrome extension to enhance Google Meet's experience.<br/>
 [YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa#why-it-doesnt-always-work)<br/>
 [opencv-react](https://github.com/giacomocerquone/opencv-react)<br/>
 [react-perspective-cropper](https://github.com/giacomocerquone/react-perspective-cropper)<br/>
