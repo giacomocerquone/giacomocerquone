@@ -15,9 +15,9 @@ I work as a remote freelancer in JavaScript and my main technologies are: JavaS
 ## 🗂️ My OSS projects
 
 [Unconventional Meet](https://github.com/giacomocerquone/beyond-meet) - A Chrome extension to enhance Google Meet's experience.<br/>
-[YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa)<br/> - Next.js PWA deployed on Vercel to listen for YouTube videos in the background
-[opencv-react](https://github.com/giacomocerquone/opencv-react)<br/> - A library to correctly import and use OpenCV in your front-end app
-[react-perspective-cropper](https://github.com/giacomocerquone/react-perspective-cropper)<br/> - A react lib to wrap and converts documents' photos into scan 
+[YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa) - Next.js PWA deployed on Vercel to listen for YouTube videos in the background<br/>
+[opencv-react](https://github.com/giacomocerquone/opencv-react) - A library to correctly import and use OpenCV in your front-end app<br/>
+[react-perspective-cropper](https://github.com/giacomocerquone/react-perspective-cropper) - A react lib to wrap and converts documents' photos into scan<br/>
 [UnivaqBot (archived)](https://github.com/giacomocerquone/UnivaqBot) - An old project for scraping and notifying news to the students of my university through a telegram bot
 
 ## &#x1f4c8; GitHub Stats
