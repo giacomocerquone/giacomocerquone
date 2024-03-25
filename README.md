@@ -5,11 +5,11 @@
 ![](https://img.shields.io/static/v1?label=React&message=%E2%9D%A4&color=7cd0ef)
 ![](https://img.shields.io/static/v1?label=Functional%20Programming&message=%E2%9D%A4&color=c4451d)
 
-Hi, I'm Giacomo, I write software you use.
-I've always written code since I was a kid. I have a Bachelor Degree in Computer Science.
+Hi, I'm Giacomo, I write software you use.<br/>
+I've always written code since I was a kid. I have a Bachelor Degree in Computer Science.<br/>
 What has always driven me in this field is the ability to craft and transform ideas into products that people actually use.
 
-Currently senior JavaScript engineer at [Musixmatch](https://www.musixmatch.com/it)
+Currently senior JavaScript engineer at [Musixmatch](https://www.musixmatch.com/it).<br/>
 I'm a movie buff and I enjoy writing technical blog posts or shorter notes that may not necessarily relate to programming.
 Make also sure to check out my projects.
 
