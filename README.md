@@ -9,7 +9,7 @@ Hi, I'm Giacomo, I write software you use.<br/>
 I've always written code since I was a kid. I have a Bachelor Degree in Computer Science.<br/>
 What has always driven me in this field is the ability to craft and transform ideas into products that people actually use.
 
-Currently senior JavaScript engineer at [Musixmatch](https://www.musixmatch.com/it).<br/>
+Currently Software Engineer at [Prima](https://www.helloprima.com/).<br/>
 I'm a movie buff and I enjoy writing technical blog posts or shorter notes that may not necessarily relate to programming.
 Make also sure to check out my projects.
 
