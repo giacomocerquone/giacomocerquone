@@ -1,11 +1,11 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-Hi, I'm Giacomo, I write software since always.<br/>
-
-I've always written code since I was a kid. I have a Bachelor Degree in Computer Science.<br/>
-What has always driven me in this field is the ability to craft and transform ideas into products that people actually use.
-
+Hi, I'm Giacomo, I write software since always and doing this work professionaly for 10 years.<br/>
 Currently Software Engineer at [Prima](https://www.helloprima.com/).<br/>
+
+I started writing code when I was a kid. I have a Bachelor Degree in Computer Science.<br/>
+What has always driven me in this field is the ability to craft and transform ideas into products that people actually use.<br/>
+
 I'm a movie buff and I enjoy writing technical blog posts or shorter notes that may not necessarily relate to programming.
 Make also sure to check out my projects.
 
