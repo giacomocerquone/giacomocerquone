@@ -7,7 +7,6 @@ I started writing code when I was a kid. I have a Bachelor Degree in Computer Sc
 What has always driven me in this field is the ability to craft and transform ideas into products that people actually use.<br/>
 
 I'm a movie buff and I enjoy writing technical blog posts or shorter notes that may not necessarily relate to programming.
-Make also sure to check out my projects.
 
 ### Read me on [my blog](http://giacomocerquone.com/)
 
