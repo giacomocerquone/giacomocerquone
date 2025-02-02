@@ -9,11 +9,9 @@ What has always driven me in this field is the ability to craft and transform id
 I'm a movie buff and I enjoy writing technical blog posts or shorter notes that may not necessarily relate to programming.
 Make also sure to check out my projects.
 
-## Read me here:
+### Read me on [my blog](http://giacomocerquone.com/)
 
-🌍 [My website and blog](http://giacomocerquone.com/)
-
-## 🗂️ My OSS projects
+## Some toy projects
 
 [Unconventional Meet](https://github.com/giacomocerquone/beyond-meet) - A Chrome extension to enhance Google Meet's experience.<br/>
 [YoutubeBGAudio](https://github.com/giacomocerquone/youtube-background-pwa) - Next.js PWA deployed on Vercel to listen for YouTube videos in the background<br/>
