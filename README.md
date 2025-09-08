@@ -2,7 +2,7 @@
 
 Hi, I'm Giacomo, I am a Senior TypeScript and React engineer. Currently Software Engineer at [Prima](https://www.helloprima.com/).<br/>
 
-I have nearly a decade of experience in building software with a strong product mindset, specialized in front-end architectures and component libraries. Proven track record in technical leadership, mentoring, and delivering straightforward solution to complex problems. Passionate about creating robust design systems and sharing knowledge through technical training and mentorship.<br/>
+I have nearly a decade of experience in building software with a strong product mindset, specialized in front-end architectures and component libraries. Proven track record in technical leadership, mentoring, and delivering straightforward solution to complex problems. Passionate about creating robust design systems and sharing knowledge through training and mentorship.<br/>
 
 I'm a movie buff and I enjoy writing technical blog posts or short notes<br />
 and I do this in [my blog](http://giacomocerquone.com/).<br />
