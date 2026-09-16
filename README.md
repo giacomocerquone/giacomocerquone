@@ -7,6 +7,11 @@ I have nearly a decade of experience in building software with a strong product 
 I'm a movie buff and I enjoy writing technical blog posts or short notes<br />
 and I do this in [my blog](http://giacomocerquone.com/).<br />
 
+## Past companies
+
+- Prima assicurazioni as Senior Product Engineer
+- Musixmatch as Senior front-end lead
+
 ## Open source contributions
 
 [zod-playground](https://github.com/marilari88/zod-playground) - A playground to quickly test schemas with any version of Zod, a well-known ts-first schema validation library with a functional approach<br/>
